@@ -1,0 +1,22 @@
+{
+  "name": "appium_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha",
+    "appium": "appium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "appium": "^1.22.2",
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {
+    "mocha": "^9.2.1",
+    "should": "^13.2.3",
+    "webdriverio": "^7.16.16"
+  }
+}
